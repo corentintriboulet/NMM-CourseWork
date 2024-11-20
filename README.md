@@ -1,5 +1,5 @@
 # NMM-CourseWork
-Numerical Methods in Mecanics at Centrale Lyon
+Numerical Methods in Mechanics at Centrale Lyon
 
 ## Objectives
 This course is an introduction to the numerical methods used in simulation software, in solid mechanics, fluid mechanics (CFD)
